@@ -1,0 +1,45 @@
+/* This will style all <div> elements */
+article {
+background-color: rgb(187, 238, 215);
+padding: 10px;
+margin: 15px;
+padding: 10px;
+}
+
+button{
+  background-color: rgb(32, 150, 75);
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+button:hover {
+  background-color: rgb(13, 71, 161);
+}
+
+/* This will style all <p> elements */
+p {
+color: rgb(55, 83, 9);
+font-size: 16px;
+margin: 35px;
+padding: 10px;
+}
+
+
+.descriptions {
+  font-style: italic;
+  font-size: 20px;
+  color: rgb(13, 71, 161);
+}
+
+.prices {
+  font-weight: bold;
+  font-size: 100px;
+  color: rgb(220, 38, 38);
+}
